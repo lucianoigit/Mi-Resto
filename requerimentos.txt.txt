@@ -1,0 +1,4 @@
+En miResto necesito que la caja sea capaz de manejar el catalogo online, agregar o eliminar productos, determinar cuales productos se venden en la mañana, tarde o noche , en el caso que sea necesario. Debe ser capaz de crear mesas y esta debe ser capaz de acceder al modulo de pago.
+mediante el modulo RRHH debo poder crear mozos, administradores, asignar horarios y dias a mozos
+
+deberia poder acceder al modulo de  ventas de productos(recetas), llevar un registro de compras y ventas
